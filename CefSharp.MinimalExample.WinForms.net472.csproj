@@ -19,6 +19,11 @@
     <Platforms>x86;x64;AnyCPU</Platforms>
     <ProjectGuid>{1D1D63D1-5257-4AA0-A284-7EF4574878CB}</ProjectGuid>
     <StartupObject>CefSharp.MinimalExample.WinForms.Program</StartupObject>
+    <ApplicationIcon>social media.ico</ApplicationIcon>
+    <AssemblyName>BrowseSocial</AssemblyName>
+    <Authors>Dennis M. Heine</Authors>
+    <Company>Dennis M. Heine</Company>
+    <Copyright>(c) 2022 by Dennis M. Heine</Copyright>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Platform)' == 'AnyCPU'">
@@ -44,6 +49,10 @@
     <None Remove="bin\**" />
     <None Remove="obj.netcore\**" />
     <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="social media.ico" />
   </ItemGroup>
 
   <ItemGroup>

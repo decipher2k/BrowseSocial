@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CefSharp.MinimalExample.OffScreen")]
+[assembly: AssemblyTitle("BrowseSocial")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CefSharp.MinimalExample.OffScreen")]
-[assembly: AssemblyCopyright("Copyright © 2015")]
+[assembly: AssemblyProduct("BrowseSocial")]
+[assembly: AssemblyCopyright("Copyright © 2022 by Dennis M. Heine")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
